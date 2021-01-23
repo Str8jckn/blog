@@ -1,0 +1,49 @@
+header h1 a {
+    color: red;
+    font-family: 'Hachi Maru Pop', cursive;
+}
+body {
+    font-family: 'Hachi Maru Pop', cursive;
+    color: #015d87;
+    font-size:  18px;
+}
+
+header{
+    border-bottom: 1px solid #999;
+    margin-bottom: 2rem;
+    display: flex;
+}
+
+.nav-left{
+    margin-right: auto;
+}
+
+.nav-right{
+    display: flex;
+    padding-top: 2rem;
+}
+
+.post-entry {
+    margin-bottom: 2rem;
+}
+
+.post-entry h2 {
+    margin: .5rem;
+
+}
+
+.post-entry h2 a, 
+.post-entry h2 a:visited {
+    color: green;
+    text-decoration: none;
+}
+
+.post-entry{
+    margin: 0;
+    font-weight: 400;
+
+}
+
+.post-entry h2 a:hover {
+    color: red;
+}
