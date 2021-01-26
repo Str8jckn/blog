@@ -1,4 +1,8 @@
+html {
+    background-color: aquamarine;
+}
 header h1 a {
+    
     color: red;
     font-family: 'Hachi Maru Pop', cursive;
 }
@@ -6,9 +10,11 @@ body {
     font-family: 'Hachi Maru Pop', cursive;
     color: #015d87;
     font-size:  18px;
+    
 }
 
 header{
+    
     border-bottom: 1px solid #999;
     margin-bottom: 2rem;
     display: flex;
